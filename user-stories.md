@@ -11,6 +11,7 @@ PPs - proposals
 - see paraphrased feedback/suggestions for improvement about PPs
   - see how broadly suggestions are shared by constituencies
 - see demographical and regional break down of feedback.
+- see the 'reach' of my PPs
 - possibly use the website as the means to create and share reports
 
 ### As a CT I want to:
@@ -24,3 +25,4 @@ PPs - proposals
 - see similar PPs and policy in other cities, interact with those citizens (but not respond directly to PPs of that city)
 - register/signup relative to my city
 - be able to 'move' (restriction on responding to cities you don't live in, or atleast not be counted when commenting on other 'cities')
+- be notified when PPs that are in my area/relate to topics I care about are created or updated
