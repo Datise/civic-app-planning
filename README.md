@@ -18,11 +18,6 @@ MH - must have
 * Use of demographical/personal data and responses must be transparent and opt*outable
 * Never intentionally moderate or influence the outcome of polls
 
-##Things still up in the air:
-
-* Best ways to organize each category (if different)
-* Required information for each category
-* BIG GAP: Are citizens allowed to create topics/get support for initives (yes, but), Are there topic restrictions? What are the requirements? Is there fact checking? What/is there moderation? 
 
 ##Presentation structures (from the municipalities perspective) * General
 
