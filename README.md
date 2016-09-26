@@ -6,11 +6,11 @@ MH - must have
   A mixed medium communication platform that aims to facilitate municipal growth and citizen participation by providing an accesible modernized civil feedback loop. 
 
 ## Goals
-
+* Help cities with policy or change construction, in return making it more transparent for citizens.
 * Present/Enforce a standardized presentation format for municpal changes and policy thats equally tansparent, accessible, and fair to all parties involved.
 * Help remove marginalization barriers, and increase accesibility in civic participation.
-* Increase quantity by providing a modern medium to civic participation.
-* Help cities interact effectively with larger portions of its populous, but using insights provided by AI integrations and analytical insights.
+* Increase participation quantity by providing a modern medium to civic participation.
+* Help cities develop policy and interact effectively with larger portions of its populous, but using insights provided by AI integrations and analytical insights.
 
 ## Ethics
 
