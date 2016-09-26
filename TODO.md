@@ -1,5 +1,6 @@
 # To Do
 ## Use Case Perspective
+* Construct white paper?
 * Find professional consultation on the inner workings of municipal changes and policy.
 * Determine if the supposed use case for cities is actually worth while.
   * How much do they actually spend on polling/feedback?
