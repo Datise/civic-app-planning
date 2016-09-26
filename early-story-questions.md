@@ -8,6 +8,7 @@
 (all through probably acheivable through Watson's AlchemyLanguage api)
 If negative:
   * What changes are preferable to the parties involved?
+* what is the pro's/con's of a decision based on x factor (trade off analytics)
 
 ### Citizen Perspective
 * What changes are coming into my neighbourhood?
