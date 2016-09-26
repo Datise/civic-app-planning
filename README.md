@@ -1,20 +1,18 @@
 #Project Overview
 MH - must have
+
 ##What is it? 
   A mixed medium communication platform that aims to facilitate municipal growth and citizen participation by providing an accesible, low barrier, modernized feedback loop. 
 ##Goals
-  Present/Enforce a standardized presentation format for municpal changes and policy thats equally tansparent, accessible, and fair to all parties involved.
-
-  Help remove marginalization barriers, and increase accesibility in civic participation.
-
-  Increase quantity by providing a modern medium to civic participation.
-
-  Help cities interact effectively with larger portions of its populous, but using insights provided by AI integrations and analytical insights.
+* Present/Enforce a standardized presentation format for municpal changes and policy thats equally tansparent, accessible, and fair to all parties involved.
+* Help remove marginalization barriers, and increase accesibility in civic participation.
+* Increase quantity by providing a modern medium to civic participation.
+* Help cities interact effectively with larger portions of its populous, but using insights provided by AI integrations and analytical insights.
 
 ## ETHICS
-  *All data must be 'open' * anonymized and made available to the city/other public research uses, perhaps private research uses on a case by case basis.
-  *Use of demographical/personal data and responses must be transparent and opt*outable
-  *Never intentionally moderate or influence the outcome of polls
+* All data must be 'open' * anonymized and made available to the city/other public research uses, perhaps private research uses on a case by case basis.
+* Use of demographical/personal data and responses must be transparent and opt*outable
+* Never intentionally moderate or influence the outcome of polls
 
 
 ## the motives of citizens should be to have their voice heard and contribute the decisions made in their city
